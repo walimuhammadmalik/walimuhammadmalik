@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @thewalimuhammad
+# 👋 Hi, I’m Wali Muhammad
+
+I'm a passionate software developer specializing in **Node.js** and **React.js**. Welcome to my GitHub profile!
+
+
+## About Me
 - 👀 I’m interested in Back End Development
 - 🌱 I’m currently learning JavaScript, Node.js, and Express.js
 - 🤔 I’m looking for help with basic web development
